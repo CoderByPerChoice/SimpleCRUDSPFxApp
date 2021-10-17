@@ -1,4 +1,4 @@
-# simple user management app.
+# Simple user management app.
 
 ## Summary
 
