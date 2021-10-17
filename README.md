@@ -2,9 +2,10 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Wepart created using SPFx+No JavaScript framework.
 
-[picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/20637763/137633150-47d46bda-fc30-4988-ba3b-a650775b0230.png)
+
 
 ## Used SharePoint Framework Version
 
