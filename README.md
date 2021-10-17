@@ -1,10 +1,13 @@
-# simple-crudsp-fx-app
+# simple user management app.
 
 ## Summary
 
 Wepart created using SPFx+No JavaScript framework.
 
 ![image](https://user-images.githubusercontent.com/20637763/137633150-47d46bda-fc30-4988-ba3b-a650775b0230.png)
+
+Edit Screen - 
+![image](https://user-images.githubusercontent.com/20637763/137633308-cc17b4d3-826e-4fac-9dba-8a492eeaec08.png)
 
 
 ## Used SharePoint Framework Version
